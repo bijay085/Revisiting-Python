@@ -1,0 +1,31 @@
+Got it! Here’s a **mixed set** of string practice questions:  for day 2 string operation
+
+1. Take a string input from the user and print its **length**, **first character**, and **last character**.  
+
+2. Given the string `"Game of Thrones"`, print:  
+   - The **word "Thrones"** using slicing.  
+   - The **reverse of the string** using slicing.  
+
+3. Replace `"apple"` with `"banana"` in this string:  
+   ```python
+   text = "I love apple pie."
+   ```  
+
+4. Find how many times the letter **"o"** appears in `"Hello, how are you?"`.  
+
+5. Check if the string `"Coding is fun!"` **ends with `"fun!"`** and **starts with `"Code"`**.  
+
+6. Convert the sentence `"hElLo PyTHoN"` to **proper sentence case** (`Hello python`).  
+
+7. Take a **full name input** from a user and print:  
+   - Only the **first name**.  
+   - Only the **last name**.  
+   - The full name in **uppercase**.  
+
+8. Extract `"John"` from the string `"Mr. John Wick"` without directly typing `"John"`.  
+
+9. Take a sentence input and find the **index of the first occurrence** of the word `"Python"`.  
+
+10. Given a string `"racecar"`, check if it is a **palindrome** (reads the same forward and backward).  
+
+Try these out and let me know if you need hints! 🚀🔥
